@@ -1,3 +1,4 @@
+#pragma once
 #ifndef CHUNKER_H
 #define CHUNKER_H
 
