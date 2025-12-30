@@ -12,8 +12,8 @@ private:
 
 	// Helper functions
 	int parent(int i) const { return (i - 1) / 2; }
-	int leftChild(int i) const { return 2 * 1 + 1; }
-	int rightChild(int i) const { return 2 * 1 + 2; }
+	int leftChild(int i) const { return 2 * i + 1; }
+	int rightChild(int i) const { return 2 * i + 2; }
 
 	void heapifyDown(int index);
 	void heapifyUp(int index);

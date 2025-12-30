@@ -4,14 +4,16 @@
 #include <string>
 
 int main(int argc, char* argv[]) {
-    if (argc != 3) {
+    size_t count = 1000000;
+    std::string filename = "input.txt";
+    /*if (argc != 3) {
         std::cout << "Usage: generate_data <count> <filename>\n";
-        std::cout << "Example: generate_data 1000000 input.txt\n";
+        std::cout << "Example: generate_data 10000000 input.txt\n";
         return 1;
     }
 
     size_t count = std::stoull(argv[1]);
-    std::string filename = argv[2];
+    std::string filename = argv[2];*/
 
     std::cout << "Generating " << count << " random integers...\n";
 

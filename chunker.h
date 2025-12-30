@@ -20,7 +20,7 @@ private :
 
 public:
 	//Construtor
-	Chunker(const std::string& filenaem, size_t chunkSize = 512 * 1024 * 1024);
+	Chunker(const std::string& filenaem, size_t chunkSize = 1 * 1024 * 1024); //1MB
 
 	//Main operation: create sorted chunks
 	std::vector<std::string> createSortedChunks();
