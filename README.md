@@ -6,8 +6,9 @@ External sorting algorithm for files larger than RAM using heap sort and k-way m
 ## 🎯 Project Overview
 
 **Course:** Data Structures & Algorithms - Final Project  
-**Authors:** [Your Names]  
-**Date:** December 2025  
+**Authors:** [Huynh Minh Tai - 22110068]  
+             [Van Pham Thao Nhi - 23110049]
+**Date:** 31 December 2025  
 
 **Topics Covered:**
 - **D1-2:** Asymptotic Analysis  
