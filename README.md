@@ -169,5 +169,5 @@ This is an academic project. For contribution guidelines, see [CONTRIBUTING.md](
 ## 📞 Contact
 
 For questions about this project:
-- Email: [dsagroup6@gmail.com]
+- Email: [dsagroup62025@gmail.com]
 - GitHub: [DSA_PROJECT_SEMESTER1]
