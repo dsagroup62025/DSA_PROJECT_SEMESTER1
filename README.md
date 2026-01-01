@@ -120,12 +120,12 @@ DSA_PROJECT_SEMESTER1/
 
 Tested on: [Terminal on Windows]
 
-| File Size | Elements | Time | Throughput | Memory Used |
-|-----------|----------|------|------------|-------------|
-| 40 MB     | 10M      |15.2s | 2.6 MB/s   | 256 MB      |
-| 400 MB    | 100M     | 178s | 2.2 MB/s   | 256 MB      |
-| 1 GB      | 250M     | 520s | 2.0 MB/s   | 256 MB      |
-| 4 GB      | 1B       | 2400s| 1.7 MB/s   | 512 MB      |
+| Chunk Size | Num Chunks | Phase 1 (Sort) | Phase 2 (Merge) | Total Time | Throughput     |
+| :---       | :---       | :---           | :---            | :---       | :---           |
+|**1.00 MB** | 4 chunks   | 4.1s           | 4.4s            | **8.5s**   | 228,571 elem/s |
+|**2.00 MB** | 2 chunks   | 4.1s           | 4.3s            | **8.4s**   | 238,095 elem/s |
+|**5.00 MB** | 1 chunk    | 4.1s           | 4.3s            | **8.4s**   | 238,095 elem/s |
+
 
 ## 🧮 Algorithm Complexity
 
