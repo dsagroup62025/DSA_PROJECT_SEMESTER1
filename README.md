@@ -1,7 +1,10 @@
 # DSA_PROJECT_SEMESTER1
-# Big Data File Sorter
+# Big Data File Sorter (C++)
+**High-performance External Sorting for datasets exceeding RAM limits.**
 
 External sorting algorithm for files larger than RAM using heap sort and k-way merge.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
 ## 🎯 Project Overview
 
