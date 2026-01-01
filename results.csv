@@ -1,0 +1,4 @@
+ChunkSize_MB,NumChunks,TotalTime_s,Throughput_elements_sec
+1,4,8.5,228571
+2,2,8.4,228571
+5,1,8.4,233481
