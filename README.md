@@ -115,7 +115,7 @@ DSA_PROJECT_SEMESTER1/
 
 ## 📊 Performance
 
-Tested on: [Your System Specs]
+Tested on: [Terminal on Windows]
 
 | File Size | Elements | Time | Throughput | Memory Used |
 |-----------|----------|------|------------|-------------|
@@ -153,7 +153,7 @@ This is an academic project. For contribution guidelines, see [CONTRIBUTING.md](
 
 ## 📄 License
 
-[Choose appropriate license - MIT recommended]
+MIT
 
 ## 👥 Authors
 
