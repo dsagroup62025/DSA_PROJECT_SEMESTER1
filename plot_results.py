@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import os
 
-# 1. Đọc dữ liệu từ file CSV bạn vừa tạo
+# 1. Đọc dữ liệu từ file CSV vừa tạo
 try:
     df = pd.read_csv('results.csv')
 except FileNotFoundError:
@@ -37,4 +37,5 @@ if not os.path.exists('charts'):
 
 plt.savefig('charts/performance_analysis.png')
 print("Thành công! Biểu đồ đã được lưu trong thư mục charts/performance_analysis.png")
+
 plt.show()
