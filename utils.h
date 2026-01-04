@@ -68,7 +68,6 @@ void setConsoleColor(Color color);
 void resetConsoleColor();
 
 #else
-// Linux/Mac ANSI colors
 #define COLOR_RESET   "\033[0m"
 #define COLOR_RED     "\033[31m"
 #define COLOR_GREEN   "\033[32m"
@@ -77,4 +76,4 @@ void resetConsoleColor();
 #define COLOR_CYAN    "\033[36m"
 #endif
 
-#endif // UTILS_H#pragma once
+#endif 
