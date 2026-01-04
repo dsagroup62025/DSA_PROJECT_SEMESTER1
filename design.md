@@ -1368,19 +1368,19 @@ Improves cache hit rate
 
 
 
-| Criterion | Heap Sort | Quick Sort |
+|    Criterion    |   Heap Sort   |     Quick Sort     |
 
-|-----------|-----------|------------|
+|   -----------   |  -----------  |    ------------    |
 
-| Worst-case time | O(n log n) ✅ | O(n²) ❌ |
+| Worst-case time | O(n log n) ✅ |      O(n²) ❌     |
 
-| Space | O(1) ✅ | O(log n) stack ⚠️ |
+| Space           |     O(1) ✅   | O(log n) stack ⚠️ |
 
-| In-place | Yes ✅ | Yes ✅ |
+| In-place        |     Yes ✅    |       Yes ✅      |           
 
-| Cache-friendly | Poor ⚠️ | Good ✅ |
+| Cache-friendly  |     Poor ⚠️   |       Good ✅     |
 
-| Predictable | Yes ✅ | No ❌ |
+| Predictable     |     Yes ✅    |       No ❌       |
 
 
 
@@ -1704,4 +1704,5 @@ Dự án đã triển khai thành công hệ thống sắp xếp ngoài (Externa
 
 
 \*\*End of Design Document\*\*
+
 
