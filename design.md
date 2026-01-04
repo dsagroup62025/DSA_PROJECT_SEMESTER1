@@ -18,21 +18,21 @@
 
 
 
-1\. \[System Overview](#1-system-overview)
+1\. \[System Overview]
 
-2\. \[Architecture Design](#2-architecture-design)
+2\. \[Architecture Design]
 
-3\. \[Module Specifications](#3-module-specifications)
+3\. \[Module Specifications]
 
-4\. \[Data Structures](#4-data-structures)
+4\. \[Data Structures]
 
-5\. \[Algorithm Design](#5-algorithm-design)
+5\. \[Algorithm Design]
 
-6\. \[File Format Specifications](#6-file-format-specifications)
+6\. \[File Format Specifications]
 
-7\. \[Performance Considerations](#7-performance-considerations)
+7\. \[Performance Considerations]
 
-8\. \[Design Decisions](#8-design-decisions)
+8\. \[Design Decisions]
 
 
 
@@ -1704,5 +1704,6 @@ Dự án đã triển khai thành công hệ thống sắp xếp ngoài (Externa
 
 
 \*\*End of Design Document\*\*
+
 
 
