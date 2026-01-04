@@ -77,7 +77,6 @@ void testMediumFile() {
 
     generateTestFile("test_input_medium.txt", 100000);
 
-    // Chunk size: 10MB (can hold ~2.5M integers)
     Chunker chunker("test_input_medium.txt", 10 * 1024 * 1024);
 
     Timer timer;
