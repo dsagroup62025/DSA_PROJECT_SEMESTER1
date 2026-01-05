@@ -144,7 +144,7 @@ Tested on: [Terminal on Windows]
 
 ## 📖 Documentation
 
-Full documentation and theoretical analysis available in [docs/report.pdf](docs/report.pdf)
+Full documentation and theoretical analysis available in [docs/report.pdf](report.pdf)
 
 ## 🎥 Demo Video
 
