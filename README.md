@@ -148,7 +148,7 @@ Full documentation and theoretical analysis available in [docs/report.pdf](docs/
 
 ## 🎥 Demo Video
 
-[Link to demo video]
+https:
 
 ## 🤝 Contributing
 
